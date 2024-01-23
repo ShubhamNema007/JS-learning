@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.calculator-key{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+input{
+    border: none;
+    background-color: #f9f9f9;
+    font-size: 22px;
+}
+button {
+    font-size: 22px;
+}
