@@ -8,4 +8,4 @@ if (write) {
 }
 else {
   document.write("Please allow me to write")
-}
+} 
