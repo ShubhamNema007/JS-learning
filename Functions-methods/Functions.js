@@ -86,3 +86,11 @@ let newMarks = marks.filter((student) => {
     return student > 90
 })
 console.log(newMarks,marks)
+
+
+function clickme() {
+  document.getElementById("click-red").style.backgroundColor = "red"
+}
+function displayDate() {
+    document.getElementById("demo").innerHTML = Date();
+} 

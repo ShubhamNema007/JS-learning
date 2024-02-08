@@ -1,0 +1,15 @@
+.box-main{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background: skyblue;
+    color: black;
+}
+button{
+    margin-bottom: 20px;
+    padding: 10px;
+}
