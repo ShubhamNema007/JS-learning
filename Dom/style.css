@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+    width: 150px;
+    background-color: red;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.para{
+    font-size: 18px;
+    color: blueviolet;
+}
+.para-new-class{
+    background-color: lightcoral;
+}
