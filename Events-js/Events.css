@@ -1,0 +1,13 @@
+div{
+    width: 350px;
+    height: 350px;
+    background-color: royalblue;
+}
+.dark{
+    background: #000;
+    color: white;
+}
+.light{
+    background: #fff;
+    color: #000;
+}
